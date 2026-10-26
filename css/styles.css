@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    display: block;
+    margin: 30px auto;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 30px auto;
+    width: 85%;
+    background-color: white;
+   
+}
+
+table, th, td{
+    border: 2px solid red;
+}
+
+th, td{
+    padding: 8px;
+    text-align: center;
+    border: 2px solid red;
+}
+
+.titulo{
+    background-color:#D9E1F2;
+}
+
+.titulo2{
+    background-color: #E2EFDA;
+}
+
+.cadastro{
+    background-color: #B4C6E7;
+}
+
+.notas{
+    background-color: #C6E0B4;
+}
+
+tr :hover{
+    background-color: #eaeaea;
+    transition: 0.3s;
+}
+
+
